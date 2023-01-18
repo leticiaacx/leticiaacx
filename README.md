@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Letícia Pinheiro 👋🏼
 
 - 🔭 Atualmente estou cursando Sistemas de Informações na Universidade Federal do Ceará 
-- 🌱 Estudando para Database
+- 🌱 Estudando novas lingaguens
 - 😄 Pronouns: ela/dela
 
 <div>
